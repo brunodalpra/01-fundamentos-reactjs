@@ -1,12 +1,13 @@
-import { Header } from './components/Header';
+{/*import { Header } from './components/Header';
 import { Post } from './components/Post';
-import './global.css';
+
 import styles from './App.module.css';
-import { Sidebar } from './components/Sidebar';
+import { Sidebar } from './components/Sidebar';*/}
+import './global.css';
 export function App() {
   return (
     <div>
-      <Header />
+     {/* <Header />
       
       <div className={styles.wrapper}>
       <aside><Sidebar /></aside>
@@ -18,7 +19,8 @@ export function App() {
       <Post author="Ana Livia" content="Escrevendo um post" />
       </main>
 
-      </div>
+      </div>*/}
+      teste
     </div>
   );
 }

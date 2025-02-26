@@ -1,4 +1,4 @@
-import { Comment } from './comment';
+import { Comment } from './Comment';
 import styles from './Post.module.css';
 
 export function Post() {
